@@ -1,0 +1,39 @@
+img{
+  width:300px;
+  border-radius:20%;
+}
+
+#myfavoritehobby{
+  font-size:30px;
+  font-color:green;
+  text-align:center;
+  background:linear-gradient(#9C27B0 0%,#00BCD4 100%);
+  background-repeat:no-repeat;
+}
+#aboutmyfavoritehobby{
+  text-align:center;
+  background:linear-gradient(#9C27B0 0%,#00BCD4 100%);
+  background-repeat:no-repeat;
+  font-size:20px;
+  font-color:green;
+  font-family:comic;
+}
+body{
+    text-align: center;
+    font-color: golden;
+}
+#about{
+    font-family: 'Zilla Slab Highlight', cursive;
+}
+.menu{
+    top;10px;
+    right:30px;
+    float:right;
+    font-family: cursive;
+    list-style: none;
+    cursor:pointer;
+    color:black;
+}
+.link{
+    display: inline;
+}
